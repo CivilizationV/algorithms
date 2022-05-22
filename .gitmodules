@@ -1,0 +1,3 @@
+[submodule "introduction2Algorithms/solutions"]
+	path = introduction2Algorithms/solutions
+	url = https://github.com/walkccc/CLRS.git
