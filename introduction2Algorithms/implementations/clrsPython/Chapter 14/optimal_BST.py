@@ -44,7 +44,7 @@ def optimal_BST(p, q, n):
 	p[0] = 0. 
 	q -- array of probabilities of unsuccessful searches. q[i] is the
 	probability that a search falls between keys k[i] and k[i+1]. q[0] 
-	is the probability that a search falls to the left of k[i] and q[n]
+	is the probability that a search falls to the left of k[1] and q[n]
 	is the probability that a search falls to the right of k[n]. Entries
 	used are q[0:n+1].
 	n -- number of distinct keys
