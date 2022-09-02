@@ -1,5 +1,3 @@
-package com.kuaishou.poster.bot.dao;
-
 import static org.apache.commons.math3.util.FastMath.max;
 import static org.apache.commons.math3.util.FastMath.min;
 
